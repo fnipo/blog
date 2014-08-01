@@ -1,7 +1,7 @@
 ﻿<Window x:Class="AudioRecorder.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="MainWindow" SizeToContent="WidthAndHeight">
+        Title="Audio Recorder" SizeToContent="WidthAndHeight">
     <StackPanel Orientation="Horizontal">
         <Button Style="{StaticResource PlayerControlButton}" Content="Play" Click="PlayButton_Click"/>
         <Button Style="{StaticResource PlayerControlButton}" Content="Pause" Click="PauseButton_Click"/>

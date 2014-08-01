@@ -42,7 +42,6 @@ namespace AudioRecorder
             waveIn.DeviceNumber = AudioController.getInstance().GetDefaultInputDeviceNumber();
             waveIn.WaveFormat = new WaveFormat(44100, 2);
             waveIn.DataAvailable += OnDataAvailable;
-            waveIn.RecordingStopped += OnRecordingStopped;
             writer = new WaveFileWriter(audioFileName, waveIn.WaveFormat);
             isRecording = true;
             
@@ -81,18 +80,6 @@ namespace AudioRecorder
             writer.Flush();
         }
         #endregion
-
-        #region OnRecordingStopped
-        void OnRecordingStopped(object sender, StoppedEventArgs e)
-        {
-            Console.WriteLine("Chamou OnRecordingStopped");
-
-            //waveIn.Dispose();
-            //writer.Flush();
-            //writer.Dispose();
-            //isRecordingStopped = true;
-        }
-        #endregion        
         #endregion
     }
 }
