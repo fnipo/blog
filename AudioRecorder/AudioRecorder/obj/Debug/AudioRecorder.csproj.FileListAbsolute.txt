@@ -1,0 +1,61 @@
+c:\users\fnf\documents\visual studio 2013\Projects\AudioRecorder\AudioRecorder\bin\Debug\AudioRecorder.exe.config
+c:\users\fnf\documents\visual studio 2013\Projects\AudioRecorder\AudioRecorder\bin\Debug\AudioRecorder.exe
+c:\users\fnf\documents\visual studio 2013\Projects\AudioRecorder\AudioRecorder\bin\Debug\AudioRecorder.pdb
+c:\users\fnf\documents\visual studio 2013\Projects\AudioRecorder\AudioRecorder\obj\Debug\AudioRecorder.csprojResolveAssemblyReference.cache
+c:\users\fnf\documents\visual studio 2013\Projects\AudioRecorder\AudioRecorder\obj\Debug\MainWindow.baml
+c:\users\fnf\documents\visual studio 2013\Projects\AudioRecorder\AudioRecorder\obj\Debug\MainWindow.g.cs
+c:\users\fnf\documents\visual studio 2013\Projects\AudioRecorder\AudioRecorder\obj\Debug\App.g.cs
+c:\users\fnf\documents\visual studio 2013\Projects\AudioRecorder\AudioRecorder\obj\Debug\AudioRecorder_MarkupCompile.cache
+c:\users\fnf\documents\visual studio 2013\Projects\AudioRecorder\AudioRecorder\obj\Debug\AudioRecorder.g.resources
+c:\users\fnf\documents\visual studio 2013\Projects\AudioRecorder\AudioRecorder\obj\Debug\AudioRecorder.Properties.Resources.resources
+c:\users\fnf\documents\visual studio 2013\Projects\AudioRecorder\AudioRecorder\obj\Debug\AudioRecorder.csproj.GenerateResource.Cache
+c:\users\fnf\documents\visual studio 2013\Projects\AudioRecorder\AudioRecorder\obj\Debug\AudioRecorder.exe
+c:\users\fnf\documents\visual studio 2013\Projects\AudioRecorder\AudioRecorder\obj\Debug\AudioRecorder.pdb
+c:\users\fnf\documents\visual studio 2013\Projects\AudioRecorder\AudioRecorder\bin\Debug\NAudio.dll
+c:\users\fnf\documents\visual studio 2013\Projects\AudioRecorder\AudioRecorder\bin\Debug\NAudio.xml
+G:\workspace\dotnet\AudioRecorder\AudioRecorder\bin\Debug\AudioRecorder.exe.config
+G:\workspace\dotnet\AudioRecorder\AudioRecorder\obj\Debug\AudioRecorder.exe
+G:\workspace\dotnet\AudioRecorder\AudioRecorder\obj\Debug\AudioRecorder.pdb
+G:\workspace\dotnet\AudioRecorder\AudioRecorder\bin\Debug\AudioRecorder.exe
+G:\workspace\dotnet\AudioRecorder\AudioRecorder\bin\Debug\AudioRecorder.pdb
+G:\workspace\dotnet\AudioRecorder\AudioRecorder\bin\Debug\NAudio.dll
+G:\workspace\dotnet\AudioRecorder\AudioRecorder\bin\Debug\NAudio.xml
+G:\workspace\dotnet\AudioRecorder\AudioRecorder\obj\Debug\AudioRecorder.csprojResolveAssemblyReference.cache
+G:\workspace\dotnet\AudioRecorder\AudioRecorder\obj\Debug\MainWindow.baml
+G:\workspace\dotnet\AudioRecorder\AudioRecorder\obj\Debug\MainWindow.g.cs
+G:\workspace\dotnet\AudioRecorder\AudioRecorder\obj\Debug\App.g.cs
+G:\workspace\dotnet\AudioRecorder\AudioRecorder\obj\Debug\AudioRecorder_MarkupCompile.cache
+G:\workspace\dotnet\AudioRecorder\AudioRecorder\obj\Debug\AudioRecorder.g.resources
+G:\workspace\dotnet\AudioRecorder\AudioRecorder\obj\Debug\AudioRecorder.Properties.Resources.resources
+G:\workspace\dotnet\AudioRecorder\AudioRecorder\obj\Debug\AudioRecorder.csproj.GenerateResource.Cache
+C:\Users\fnf\workspace\dotnet\AudioRecorder\AudioRecorder\bin\Debug\AudioRecorder.exe.config
+C:\Users\fnf\workspace\dotnet\AudioRecorder\AudioRecorder\obj\Debug\AudioRecorder.exe
+C:\Users\fnf\workspace\dotnet\AudioRecorder\AudioRecorder\obj\Debug\AudioRecorder.pdb
+C:\Users\fnf\workspace\dotnet\AudioRecorder\AudioRecorder\bin\Debug\AudioRecorder.exe
+C:\Users\fnf\workspace\dotnet\AudioRecorder\AudioRecorder\bin\Debug\AudioRecorder.pdb
+C:\Users\fnf\workspace\dotnet\AudioRecorder\AudioRecorder\bin\Debug\NAudio.dll
+C:\Users\fnf\workspace\dotnet\AudioRecorder\AudioRecorder\bin\Debug\NAudio.xml
+C:\Users\fnf\workspace\dotnet\AudioRecorder\AudioRecorder\obj\Debug\AudioRecorder.csprojResolveAssemblyReference.cache
+C:\Users\fnf\workspace\dotnet\AudioRecorder\AudioRecorder\obj\Debug\MainWindow.baml
+C:\Users\fnf\workspace\dotnet\AudioRecorder\AudioRecorder\obj\Debug\MainWindow.g.cs
+C:\Users\fnf\workspace\dotnet\AudioRecorder\AudioRecorder\obj\Debug\App.g.cs
+C:\Users\fnf\workspace\dotnet\AudioRecorder\AudioRecorder\obj\Debug\AudioRecorder_MarkupCompile.cache
+C:\Users\fnf\workspace\dotnet\AudioRecorder\AudioRecorder\obj\Debug\AudioRecorder.g.resources
+C:\Users\fnf\workspace\dotnet\AudioRecorder\AudioRecorder\obj\Debug\AudioRecorder.Properties.Resources.resources
+C:\Users\fnf\workspace\dotnet\AudioRecorder\AudioRecorder\obj\Debug\AudioRecorder.csproj.GenerateResource.Cache
+E:\workspace\dotnet\AudioRecorder\AudioRecorder\bin\Debug\AudioRecorder.exe.config
+E:\workspace\dotnet\AudioRecorder\AudioRecorder\obj\Debug\AudioRecorder.exe
+E:\workspace\dotnet\AudioRecorder\AudioRecorder\obj\Debug\AudioRecorder.pdb
+E:\workspace\dotnet\AudioRecorder\AudioRecorder\bin\Debug\AudioRecorder.exe
+E:\workspace\dotnet\AudioRecorder\AudioRecorder\bin\Debug\AudioRecorder.pdb
+E:\workspace\dotnet\AudioRecorder\AudioRecorder\bin\Debug\NAudio.dll
+E:\workspace\dotnet\AudioRecorder\AudioRecorder\bin\Debug\NAudio.xml
+E:\workspace\dotnet\AudioRecorder\AudioRecorder\obj\Debug\AudioRecorder.csprojResolveAssemblyReference.cache
+E:\workspace\dotnet\AudioRecorder\AudioRecorder\obj\Debug\MainWindow.baml
+E:\workspace\dotnet\AudioRecorder\AudioRecorder\obj\Debug\MainWindow.g.cs
+E:\workspace\dotnet\AudioRecorder\AudioRecorder\obj\Debug\App.g.cs
+E:\workspace\dotnet\AudioRecorder\AudioRecorder\obj\Debug\AudioRecorder_MarkupCompile.cache
+E:\workspace\dotnet\AudioRecorder\AudioRecorder\obj\Debug\AudioRecorder.g.resources
+E:\workspace\dotnet\AudioRecorder\AudioRecorder\obj\Debug\AudioRecorder.Properties.Resources.resources
+E:\workspace\dotnet\AudioRecorder\AudioRecorder\obj\Debug\AudioRecorder.csproj.GenerateResource.Cache
+E:\workspace\dotnet\AudioRecorder\AudioRecorder\obj\Debug\App.baml
