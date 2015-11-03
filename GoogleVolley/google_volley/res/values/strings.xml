@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">google_volley</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="do_it_btn_text">Do It!</string>
+    <string name="get_all_btn_text">Get All!</string>
+    <string name="get_it_btn_text">Get It!</string>
+
+</resources>
